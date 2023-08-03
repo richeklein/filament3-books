@@ -19,6 +19,8 @@ I included the following packages (excluding the installation pages):
 - Widgets
 - Notifications
 
+> The screenshots are also missing from the books, since they are not in the Markdown directly and added via Astro to the live docs.
+
 ## How did you build the books?
 I used [Pandoc](https://pandoc.org/) with a custom shell script (and some messy hacks 😂). Since the FilamentPHP documentation is written in Markdown, it was a relatively simple process:
 
